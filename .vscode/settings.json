@@ -9,6 +9,7 @@
         "string_view": "cpp",
         "*.tcc": "cpp",
         "streambuf": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "list": "cpp"
     }
 }
